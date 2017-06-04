@@ -1,2 +1,3 @@
 # hello-world
-漫画でわかるgithub
+漫画でわかるgithub ７・８話実践用
+
